@@ -1,0 +1,17 @@
+//a[text()='🥔 Potatoz']    		- " Potatoz "
+
+
+//div[text()='Trending']   		- " Trending "
+
+
+//h2[text()='News']         		- " News " 
+
+
+//div[text()='Old Meme']    		- " Old Meme "
+
+
+//h2[text()='He tried his best']	- " He tried his best"
+
+
+
+
